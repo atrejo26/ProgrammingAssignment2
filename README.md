@@ -1,11 +1,11 @@
 # [Project Title]
 
-Replace this project title with the lab or assignment name.
+Programming Assignment 2
 
 ## Your Information
 
-- **Name:**
-- **Date:**
+- **Name:** Rey T
+- **Date:** 9/28/2026
 
 ## How to Run
 
